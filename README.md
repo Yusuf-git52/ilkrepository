@@ -1,2 +1,2 @@
 # ilkrepository
-yapılan herşey silindi
+
